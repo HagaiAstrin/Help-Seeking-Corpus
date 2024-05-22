@@ -19,5 +19,6 @@
 # יצירת קשר
 לכל שאלה או פנייה בנוגע לפרוייקט, אתם מוזמנים לפנות אליי במייל: avisegal@gmail.com
 
-![image](https://github.com/Chats-Anonymization/Hebrew-Arabic-Anonymization/assets/168101226/2c44a881-e9cd-46a3-b7f7-b344849e65a1) ![image](https://github.com/Chats-Anonymization/Hebrew-Arabic-Anonymization/assets/168101226/43436d3b-ca28-40a9-b0e8-6c3c7a449630) ![image](https://github.com/Chats-Anonymization/Hebrew-Arabic-Anonymization/assets/168101226/00ba7e4f-7210-4687-8a65-99e247a6f1bd)
+![image](https://github.com/Chats-Anonymization/Hebrew-Arabic-Anonymization/assets/168101226/2c44a881-e9cd-46a3-b7f7-b344849e65a1) ![image](https://github.com/Chats-Anonymization/Hebrew-Arabic-Anonymization/assets/168101226/a9b33d9e-88a3-4c04-af85-a8b75c327393)
+ ![image](https://github.com/Chats-Anonymization/Hebrew-Arabic-Anonymization/assets/168101226/00ba7e4f-7210-4687-8a65-99e247a6f1bd)
 
