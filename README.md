@@ -1,7 +1,26 @@
-# Hebrew & Arabic Chats Anonymization
-### Introduction
-This repository contains sensitive chats between help-seekers and dispatchers.
+# מאגר שיחות תמיכה ברשת: נתונים בגישה מוגבלת
+המאגר מכיל שיחות תמיכה ברשת בעברית ובערבית לאחר תהליך של ניקוי והתממה רחבי היקף.
+השיחות מהוות חלק ממאגר שיחות שבוצעו בשנים 2019-2023 בעמותת סה"ר, סיוע והקשבה ברשת.
 
-All the data is cleaned, anonymized and labeled.
+הנתונים בגישה מוגבלת ושיתוף שלהם ישקל רק עם גורמים מתאימים לצורכי מחקר ופרויקטים לקידום החברה ותחומי הסיוע הנפשי ועיבוד שפה טבעית בשפות עברית וערבית.
 
-In order to gain access to the data, please fill up this [form]().
+ישנם שיקולים משמעותיים לחוקרים ומפתחים שיעבדו עם המידע במאגר לאור רגישותו.
+תהליך בחינת הבקשות למידע נועד לוודא הבטחה של שימוש ראוי במאגר כולל מניעת ייצוג מוטה של הנתונים וחשיפת פרטים מתוך המאגר.
+
+המאגר כולל כ-300 שיחות בשפות עברית וערבית. מאפייני שיחה קיימים כוללים את זמני השיחות ומשכן, גיל ומין הדוברים, וקשיים מרכזיים שעלו בשיחות כפי שתויגו על ידי גורם אנושי.
+
+על מנת להתחיל את תהליך בקשת המידע, יש למלא את [טופס הבקשה]() המצורף
+
+# תודות
+יכולות עיבוד שפה בעברית מפותחות בין היתר בעזרת כלים ממעבדת [ONLP LAB](https://github.com/OnlpLab), כולל מודל [AlephBert](https://github.com/OnlpLab/AlephBERT).
+
+התממה אוטומטית מבוצעת בעזרת פרוייקט [HebSafeHarbor - CLALIT Validation](https://github.com/ChenMordehai/HebSafeHarbor_Clalit_Validation_Improvment?tab=readme-ov-file)
+
+# יצירת קשר
+לכל שאלה או פנייה בנוגע לפרוייקט, אתם מוזמנים לפנות אליי במייל: avisegal@gmail.com
+![image](https://github.com/Chats-Anonymization/Hebrew-Arabic-Anonymization/assets/168101226/2c44a881-e9cd-46a3-b7f7-b344849e65a1)
+
+![image](https://github.com/Chats-Anonymization/Hebrew-Arabic-Anonymization/assets/168101226/19bfdbc3-2e84-4465-9cbc-99f2d0a8808e)
+
+![image](https://github.com/Chats-Anonymization/Hebrew-Arabic-Anonymization/assets/168101226/00ba7e4f-7210-4687-8a65-99e247a6f1bd)
+
