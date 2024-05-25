@@ -14,10 +14,10 @@
 # תודות
 יכולות עיבוד שפה בעברית מפותחות בין היתר בעזרת כלים ממעבדת [ONLP LAB](https://github.com/OnlpLab), כולל מודל [AlephBert](https://github.com/OnlpLab/AlephBERT).
 
-התממה אוטומטית מבוצעת בעזרת פרוייקט [HebSafeHarbor - CLALIT Validation](https://github.com/ChenMordehai/HebSafeHarbor_Clalit_Validation_Improvment?tab=readme-ov-file)
+התממה אוטומטית מבוצעת בעזרת פרוייקט [HebSafeHarbor - CLALIT Validation](https://github.com/ChenMordehai/HebSafeHarbor_Clalit_Validation_Improvment?tab=readme-ov-file).
 
 # יצירת קשר
-לכל שאלה או פנייה בנוגע לפרוייקט, אתם מוזמנים לפנות אליי במייל: avisegal@gmail.com
+לכל שאלה או פנייה בנוגע לפרויקט, אתם מוזמנים לפנות אליי במייל: avisegal@gmail.com
 
 ![image](https://github.com/Chats-Anonymization/Hebrew-Arabic-Anonymization/assets/168101226/7e4096c6-7e81-4de0-bdfe-56efce10323e)
 
